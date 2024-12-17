@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://owenstrombeck.github.io/square-tactics-website/sitemap.xml

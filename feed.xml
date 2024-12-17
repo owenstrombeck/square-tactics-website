@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Square Tactics</title>
+    <link href="https://owenstrombeck.github.io/square-tactics-website/feed.xml" rel="self" />
+    <link href="https://owenstrombeck.github.io/square-tactics-website" />
+    <updated>2024-12-17T14:26:31-06:00</updated>
+    <author>
+        <name>Owen Strombeck</name>
+    </author>
+    <id>https://owenstrombeck.github.io/square-tactics-website</id>
+
+    <entry>
+        <title>Welcome to Square Tactics</title>
+        <author>
+            <name>Owen Strombeck</name>
+        </author>
+        <link href="https://owenstrombeck.github.io/square-tactics-website/welcome-to-square-tactics.html"/>
+        <id>https://owenstrombeck.github.io/square-tactics-website/welcome-to-square-tactics.html</id>
+        <media:content url="https://owenstrombeck.github.io/square-tactics-website/media/posts/4/square-tactics-web-landing-roster-1000-2.png" medium="image" />
+
+        <updated>2024-12-17T14:01:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://owenstrombeck.github.io/square-tactics-website/media/posts/4/square-tactics-web-landing-roster-1000-2.png" alt="" />
+                    Square Tactics is an area-control card game featuring aliens, cats, ninjas, and robots. Easy to learn, Square Tactics takes justa few minutes to play - but you will quickly realize there is deceptive depth to the strategy.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://owenstrombeck.github.io/square-tactics-website/media/posts/4/square-tactics-web-landing-roster-1000-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Square Tactics is an area-control card game featuring aliens, cats, ninjas, and robots. Easy to learn, Square Tactics takes justa few minutes to play - but you will quickly realize there is deceptive depth to the strategy.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Downloads</title>
+        <author>
+            <name>Owen Strombeck</name>
+        </author>
+        <link href="https://owenstrombeck.github.io/square-tactics-website/downloads.html"/>
+        <id>https://owenstrombeck.github.io/square-tactics-website/downloads.html</id>
+
+        <updated>2024-12-17T13:31:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Download pdf documents here to print and play Square Tactics. Everything you need in one pdf - SquareTactics-PrintAndPlay-Complete.pdf - OR - Just the character cards - SquareTactics-PrintAndPlay-CharacterCards.pdf Just the rulebook - SquareTactics-PrintAndPlay-Rulebook.pdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Download pdf documents here to print and play Square Tactics.</h1>
+<p> </p>
+<p>Everything you need in one pdf - <a href="https://owenstrombeck.github.io/square-tactics-website/SquareTactics-PrintAndPlay-Complete.pdf" title="SquareTactics-PrintAndPlay-Complete.pdf" target="_blank" rel="noopener noreferrer">SquareTactics-PrintAndPlay-Complete.pdf</a></p>
+<p>- OR - </p>
+<p>Just the character cards - <a href="https://owenstrombeck.github.io/square-tactics-website/SquareTactics-PrintAndPlay-CharacterCards.pdf" title="SquareTactics-PrintAndPlay-CharacterCards.pdf" target="_blank" rel="noopener noreferrer">SquareTactics-PrintAndPlay-CharacterCards.pdf</a></p>
+<p>Just the rulebook - <a href="https://owenstrombeck.github.io/square-tactics-website/SquareTactics-PrintAndPlay-Rulebook.pdf" title="SquareTactics-PrintAndPlay-Rulebook.pdf" target="_blank" rel="noopener noreferrer">SquareTactics-PrintAndPlay-Rulebook.pdf</a></p>
+<figure class="post__image"><img loading="lazy"  src="https://owenstrombeck.github.io/square-tactics-website/media/posts/2/square-tactics-web-landing-roster-1000.png" alt="" width="1000" height="333" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://owenstrombeck.github.io/square-tactics-website/media/posts/2/responsive/square-tactics-web-landing-roster-1000-xs.png 300w ,https://owenstrombeck.github.io/square-tactics-website/media/posts/2/responsive/square-tactics-web-landing-roster-1000-sm.png 480w ,https://owenstrombeck.github.io/square-tactics-website/media/posts/2/responsive/square-tactics-web-landing-roster-1000-md.png 768w ,https://owenstrombeck.github.io/square-tactics-website/media/posts/2/responsive/square-tactics-web-landing-roster-1000-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Basic Rules</title>
+        <author>
+            <name>Owen Strombeck</name>
+        </author>
+        <link href="https://owenstrombeck.github.io/square-tactics-website/basic-rules.html"/>
+        <id>https://owenstrombeck.github.io/square-tactics-website/basic-rules.html</id>
+
+        <updated>2024-12-17T13:01:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Basic Rules of SquareTactics Refer to the Square Tactics Rulebook pdf document in the downloads section for the full rules. - For a two player game, Square Tactics is played using 9 spaces - three by three in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Basic Rules of SquareTactics</h1>
+<p>Refer to the Square Tactics Rulebook pdf document in the downloads section for the full rules.</p>
+<h2>Setup</h2>
+<p>- For a two player game, Square Tactics is played using 9 spaces - three by three in a square grid.<br>- Each player takes the 18 character cards from one faction (Aliens, Bots, Cats, or Ninjas) and sits across from each other.<br>- Shuffle your 18 character cards together to form your character deck.<br>- Draw three cards from your character deck to create your starting hand.<br>- Determine one player to go first.</p>
+<h2>Turn Details</h2>
+<h3>1. Play</h3>
+<p>- Play one character card from your hand to an open space on the board.<br>- The character card you play must be placed “right side up” from your perspective.</p>
+<h3>2. Process</h3>
+<p>- Compare the numbers on your character card you just played to each of your opponents’ adjacent character cards. Always process starting with your character’s top number first, then continue around your card clockwise (top, right, bottom, left).<br><br>When comparing each side with an opponents’ character’s number:<br>- If your card's number is higher: capture their card from the board (keep it until the end of the game) then continue processing.<br>- If it is a tie: do NOT remove their card, just continue processing.<br>- If your card's number is lower: do NOT remove their card and STOP processing. Your card stays on the board, but you do not get to capture their card or process any more numbers around your card.</p>
+<h3>3. Draw</h3>
+<p>- Draw one card from the top of your character deck into your hand.<br>- If your deck runs out, continue playing the game as normal until all cards have been played.</p>
+<h2>End of the Game</h2>
+<p>The game ends when both players have played all of their cards, or it can end early if the board is completely filled and no spaces are open.</p>
+<h3>Determine how many points you have as follows:</h3>
+<p>- 1 point for each opponent’s character card you captured.<br>- 1 point for each corner space on the board your characters occupy.<br>- 2 points for each side space on the board your characters occupy.<br>- 3 points if your character occupies the middle space on the board.<br>- The player with the most points wins the game!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
